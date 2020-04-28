@@ -1,6 +1,6 @@
-Materia,Notas
-Fotografia,8.5
-Prod. Documental,6.5
-Animacion,9.0
-Prod. Ficcion,9.5
-Dir. Arte,9.0
+Materia,Notas,Notas1,Notas2
+Fotografia,8.5,5.1,8.0
+Prod. Documental,6.5,8.7,9
+Animacion,9.0,7.6,9,7
+Prod. Ficcion,9.5,6,5
+Dir. Arte,9.0,8,9
