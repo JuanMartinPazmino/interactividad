@@ -1,6 +1,6 @@
-﻿Materia;Notas
-Iluminacion;7.0
-CGI;9.0
-Dir. Actoral;8.5
-Video Comp.;6.7
-Interactividad;8.2
+Materia,Notas,N2,N3
+Iluminacion,7.0,7,9
+CGI,9.0,9,8
+Dir. Actoral,8.5,9,7
+VideoComp.,6.7,5,3
+Interactividad,8.2.5.8
